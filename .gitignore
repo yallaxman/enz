@@ -1,0 +1,6 @@
+storage/*.sqlite3
+exports/
+uploads/
+__pycache__/
+.DS_Store
+.env
